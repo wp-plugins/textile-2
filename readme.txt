@@ -1,6 +1,6 @@
 === Textile2 ===
 Contributors: adamrg
-Tags: textile, posting, markup, humane
+Tags: textile, post, markup, humane, formatting
 Requires at least: 2.0.2
 Tested up to: 2.2
 Stable tag: trunk
