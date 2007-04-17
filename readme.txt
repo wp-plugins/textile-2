@@ -17,9 +17,10 @@ Once installed, you can use [Hobix's Textile Reference](http://hobix.com/textile
 
 To install:
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the directory 'textile-2' to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Configure the plugin under 'Options > Textile2'
+1. Enjoy the goodness that is Textile.
 
 == Frequently Asked Questions ==
 
