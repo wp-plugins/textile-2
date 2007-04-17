@@ -33,14 +33,6 @@ $sp_tags_to_skip = '<(/?)(?:pre|code|kbd|script|math)[\s>]';
 
 
 # -- WordPress plugin interface -----------------------------------------------
-/*
-Plugin Name: SmartyPants
-Plugin URI: http://www.michelf.com/projects/php-smartypants/
-Description: SmartyPants is a web publishing utility that translates plain ASCII punctuation characters into &#8220;smart&#8221; typographic punctuation HTML entities. This plugin <strong>replace the default WordPress Texturize algorithm</strong> for the content and the title of your posts, the comments body and author name, and everywhere else Texturize normally apply. Based on the original Perl version by <a href="http://daringfireball.net/">John Gruber</a>.
-Version: 1.5.1e
-Author: Michel Fortin
-Author URI: http://www.michelf.com/
-*/
 if (isset($wp_version)) {
 	# Remove default Texturize filter that would conflict with SmartyPants.
 	remove_filter('category_description', 'wptexturize');
