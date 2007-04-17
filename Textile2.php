@@ -4,8 +4,8 @@ Plugin Name: Textile 2 (Improved)
 Version: 2.1
 Plugin URI: http://idly.org/category/textile
 Description: This is a wrapper for Jim Riggs' <a href="http://jimandlissa.com/project/textilephp">PHP implementation</a> of <a href="http://bradchoate.com/mt-plugins/textile">Brad Choate's Textile 2</a>.  It is feature compatible with the MovableType plugin. <strong>Does not play well with the Markdown, Textile, or Textile 2 plugins that ship with WordPress.</strong>  Packaged by <a href="http://idly.org/">Adam Gessaman</a>.
-Author: Jim Riggs
-Author URI: http://jimandlissa.com/project/textilephp
+Author: Adam Gessaman
+Author URI: http://idly.org/category/textile
 */
 
 /* 
