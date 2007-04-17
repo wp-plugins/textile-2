@@ -28,7 +28,7 @@ To install:
 
 Not at the moment.
 
-== Screnshots ==
+== Screenshots ==
 
 1. A screenshot of the configuration panel.
 
